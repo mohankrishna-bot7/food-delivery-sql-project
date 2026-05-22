@@ -20,7 +20,7 @@ A MySQL-based database project for managing online food delivery operations incl
 
 ## ER Diagram
 
-![ER Diagram](screenshots/er_diagram.png)
+![ER Diagram](screenshots/ER_Diagram.png)
 
 ---
 
@@ -44,4 +44,5 @@ ON r.restaurant_id = o.restaurant_id
 GROUP BY r.restaurant_id, r.restaurant_name
 ORDER BY total_orders DESC
 LIMIT 1;
+
 ![output](screenshots/output3.png)
