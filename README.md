@@ -20,7 +20,7 @@ A MySQL-based database project for managing online food delivery operations incl
 
 ## ER Diagram
 
-![ER Diagram](screenshots/ER_Diagram.png)
+![ER Diagram](sqlproject/ER_Diagram.png)
 
 ---
 
